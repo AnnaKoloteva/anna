@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+section {
+    border: 1px solid #ccc;
+    padding: 0 5px;
+}
+
+section h2 {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.text p {
+    font-size: 21px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+footer {
+    background: #cccccc;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 20px;
+}
